@@ -75,6 +75,7 @@ python main.py --input data/input/test1.png
 
 ## Input/Output Visualization
 
+### Draft Example
 **Input:**
 <img src="data/input/test1.png" alt="Sample Input" width="300"/>
 
@@ -95,6 +96,38 @@ body, html { margin: 0; padding: 0; width: 100%; height: 100%; }
 .box > .container { display: grid; width: 100%; height: 100%; }
 </style>
 <!-- ... -->
+  </pre>
+</details>
+
+### Test1 Example
+**Input:**
+<img src="data/input/test1.png" alt="Test1 Input" width="300"/>
+
+**Output (HTML code):**
+<details>
+  <summary>View Generated HTML</summary>
+  <pre>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Offline Profile Page Layout</title>
+    <style>
+        /* General Body Styles */
+        body {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background-color: #f3f2ef;
+            margin: 0;
+            color: #1c1c1c;
+        }
+        ...
+    </style>
+</head>
+<body>
+    ...
+</body>
+</html>
   </pre>
 </details>
 
