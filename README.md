@@ -399,7 +399,7 @@ python main.py --input data/input/test1.png
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Offline Profile Page Layout</title>
+  <title>Profile Page Layout</title>
   <style>
 
         
